@@ -137,3 +137,19 @@ button
     font-weight: 900;
     padding-inline-start: 550px;
 }
+
+.call-to-action
+{
+    background-color: #3882F6;
+}
+
+.call-to-action h2
+{
+    font-size: 20px;
+    color: #F9FAF8;
+}
+
+.call-to-action p
+{
+    color: #F9FAF8;
+}
