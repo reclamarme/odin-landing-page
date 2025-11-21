@@ -95,12 +95,12 @@ button
     flex-direction: column;
     align-items: center;
     padding-block-start: 46px;
-    padding-block-end: 120px;
+    padding-block-end: 80px;
 }
 
 .info-section .info-div 
 {
-    max-inline-size: 600px;
+    max-inline-size: 700px;
     display: flex;
     gap: 32px;
 
@@ -112,4 +112,9 @@ button
     color: #1F2937;
     font-weight: 900;
     padding-block-end: 32px;
+}
+
+.quote-section 
+{
+    background-color: #E5E7EB;
 }
