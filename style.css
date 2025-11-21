@@ -55,6 +55,7 @@ header a:focus-visible
 
 h1
 {
+    max-inline-size: 350px;
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
@@ -66,6 +67,7 @@ p {
 
 .hero-section p
 {
+    max-inline-size: 400px;
     color: #F9FAF8;
 }
 
