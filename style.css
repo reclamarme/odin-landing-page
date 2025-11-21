@@ -162,4 +162,5 @@ footer
     color: #F9FAF8;
     display:flex;
     justify-content: center;
+    padding-block: 28px;
 }
