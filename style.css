@@ -32,6 +32,7 @@ header ul
 header a 
 {
     font-size: 18px;
+    text-decoration: none;
     color: #E5E7EB;
 }
 
