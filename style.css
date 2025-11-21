@@ -50,6 +50,7 @@ header a:focus-visible
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
+    padding-block: 102px;
 }
 
 h1
@@ -62,11 +63,22 @@ h1
 .hero-section p
 {
     color: #F9FAF8;
+    line-height: 1.2;
 }
 
 button 
 {
     background-color: #3882F6;
     color: #F9FAF8;
+    font-weight: 900;
+
 }
 
+.hero-section button
+{
+    border: #3882F6;
+    border-radius: 4px;
+    padding-block: 4px;
+    padding-inline: 18px;
+    margin-block: 6px;
+}
