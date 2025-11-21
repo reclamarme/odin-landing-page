@@ -12,6 +12,8 @@ html
 
 body 
 {
+    display: flex;
+    flex-direction: column;
     font-family: 'Roboto', sans-serif, serif;
 }
 
@@ -41,4 +43,10 @@ header a:hover,
 header a:focus-visible
 {
     color: #ffff00;
+}
+
+.hero-section
+{
+    display: flex;
+    justify-content: space-around;
 }
