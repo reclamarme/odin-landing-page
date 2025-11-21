@@ -127,3 +127,9 @@ button
     color: #1F2937;
     font-weight: 300;
 }
+
+.author 
+{
+    font-size: 18px;
+    font-weight: 900;
+}
