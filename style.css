@@ -47,6 +47,26 @@ header a:focus-visible
 
 .hero-section
 {
+    background-color: #1F2937;
     display: flex;
     justify-content: space-around;
 }
+
+h1
+{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero-section p
+{
+    color: #F9FAF8;
+}
+
+button 
+{
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
