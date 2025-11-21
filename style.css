@@ -82,3 +82,19 @@ button
     padding-inline: 18px;
     margin-block: 6px;
 }
+
+.info-section 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.info-section .info-div 
+{
+    max-inline-size: 600px;
+    display: flex;
+    gap: 32px;
+
+}
