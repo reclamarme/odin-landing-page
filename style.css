@@ -134,7 +134,8 @@ button
 {
     font-size: 18px;
     font-weight: 900;
-    padding-inline-start: 550px;
+    padding-inline-end: 400px;
+    align-self: flex-end;
 }
 
 .call-to-action
