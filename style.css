@@ -141,8 +141,14 @@ button
 .call-to-action
 {
     background-color: #3882F6;
-    display:flex;
-    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    gap: 80px;
+    margin-block: 80px;
+    padding-inline: 180px;
+    padding-block: 60px;
+    border-radius: 12px;
 }
 
 .call-to-action h2
