@@ -80,13 +80,12 @@ button
     border-radius: 4px;
     padding-block: 4px;
     padding-inline: 18px;
-
+    margin-block: 6px;
 }
 
 .hero-section button
 {
-    border: #3882F6;
-    margin-block: 6px;
+    border: #3882F6 solid 2px;
 }
 
 .info-section 
@@ -160,6 +159,11 @@ button
 .call-to-action p
 {
     color: #F9FAF8;
+}
+
+.call-to-action button
+{
+    border: #F9FAF8 solid 2px; 
 }
 
 footer
